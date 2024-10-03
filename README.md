@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @invalidcintax
 - 👀 I’m interested in python and games
 - 🌱 I’m currently learning python, java and how to use github
-- 💞️ I’m looking to collaborate on python projects
+- 🤓 I’m looking to collaborate on python projects
 - ⚡ Fun fact: fortnite moves
 
 <!---
